@@ -243,6 +243,7 @@ aside {
 
 footer {
   width: 100%;
+  padding: 10px 0;
   background-color: #f7f7f7;
 }
 
@@ -311,7 +312,6 @@ ul.menu_list li:first-child {
 .copyright {
   font-size: 0.7rem;
   text-align: center;
-  margin-bottom: 30px;
 }
 
 @media screen and (max-width: 767px) {
